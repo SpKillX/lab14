@@ -1,0 +1,17 @@
+main
+main.exe
+*.bin
+
+*_test.go
+*.out
+
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+pyproject.toml
+
+*.json
+*.parquet
+*.png
